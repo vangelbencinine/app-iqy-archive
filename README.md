@@ -1,2 +1,14 @@
 # app-iqy-archive
-HTML page archive and documentation
+
+HTML 发布文件仓库
+
+页面发布任务会把结果保存到此仓库，方便统一管理。
+
+## 文件存档
+
+- 页面文件由发布任务写入
+- README 作为仓库说明保留
+
+## 文件状态
+
+已发布页面以仓库中的 HTML 文件为准，README 只做概览说明。
